@@ -7,11 +7,12 @@
         <th>PICTURE</th>
         <th>DESCRIPTION</th>
 </tr>
-  <tr>
-    <td>1</td>
-    <td><img src="AutumnForest.jpg" width="250" helght="150" alt="Mos1 picture"> </td>
-    <td>Sunlight through dense green forest,peachful.</td>
-   <td>2</td>
-    <td><img src="NeonCity.jpg" width="250" helght="150" alt="Mos1 picture"> </td>
-    <td>Sunlit dense forest,serene and peachful.</td>
-    </tr>
+<tr>
+  <td>1</td>
+  <td><img src="AutumnForest.jpg" width="250" height="150" alt="Autumn Forest picture"> </td>
+  <td>Sunlight through autumn leaves, peaceful.</td>
+
+  <td>2</td>
+  <td><img src="NeonCity.jpg" width="250" height="150" alt="Neon City picture"> </td>
+  <td>Futuristic city at night with neon lights.</td>
+</tr>
